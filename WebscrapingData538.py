@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 52,
+   "execution_count": 1,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -13,7 +13,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 53,
+   "execution_count": 2,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -24,7 +24,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 56,
+   "execution_count": 3,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -50,13 +50,8 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 57,
-   "metadata": {
-    "collapsed": true,
-    "jupyter": {
-     "outputs_hidden": true
-    }
-   },
+   "execution_count": 4,
+   "metadata": {},
    "outputs": [
     {
      "data": {
@@ -83,12 +78,14 @@
        " 'Wolves']"
       ]
      },
-     "execution_count": 57,
+     "execution_count": 4,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
-   "source": []
+   "source": [
+    "extractNamesFromMainPage()"
+   ]
   },
   {
    "cell_type": "code",
